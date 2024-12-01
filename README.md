@@ -1,4 +1,8 @@
 # 🌍 Currency Converter 💰
+
+![Currency Converter](https://github.com/user-attachments/assets/3d814772-ecc5-4127-b764-d3c37e45b476)
+
+
 ## A modern and interactive Currency Converter web application built using React and Next.js, designed to help users convert currencies effortlessly with real-time exchange rates.
 
 # 🚀 Features
@@ -26,9 +30,6 @@
 ## Tailwind CSS 🎨 - Utility-first CSS framework for fast and flexible styling.
 
 ## CSS Animations 🎞️ - Dynamic background gradient effect to enhance the UI.
-
-
-![Currency Converter](https://github.com/user-attachments/assets/3d814772-ecc5-4127-b764-d3c37e45b476)
 
 # 📥 Installation
 
